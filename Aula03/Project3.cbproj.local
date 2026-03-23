@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2026/03/20 20:04:03.187,=C:\Users\Aluno\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2026/03/20 20:04:03.314,=C:\Users\Aluno\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2026/03/20 20:21:56.771,E:\C_RAD\Project3PCH1.h=C:\Users\Aluno\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2026/03/20 20:21:56.840,E:\C_RAD\Unit1.dfm=C:\Users\Aluno\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2026/03/20 20:21:56.840,E:\C_RAD\Unit1.h=C:\Users\Aluno\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2026/03/20 20:21:56.840,E:\C_RAD\Unit1.cpp=C:\Users\Aluno\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2026/03/20 20:21:56.861,E:\C_RAD\Project3.cbproj=C:\Users\Aluno\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2026/03/20 20:22:16.829,E:\C_RAD\Unit3.h=E:\C_RAD\Unit1.h</Transaction>
+    <Transaction>2026/03/20 20:22:16.829,E:\C_RAD\Unit3.dfm=E:\C_RAD\Unit1.dfm</Transaction>
+    <Transaction>2026/03/20 20:22:16.829,E:\C_RAD\Unit3.cpp=E:\C_RAD\Unit1.cpp</Transaction>
+    <Transaction>2026/03/20 20:22:19.765,E:\C_RAD\Project3.cbproj=E:\C_RAD\Project3.cbproj</Transaction>
+    <Transaction>2026/03/20 20:38:11.226,E:\C_RAD\Project3.cbproj=E:\C_RAD\Project3.cbproj</Transaction>
+    <Transaction>2026/03/20 20:38:13.659,E:\C_RAD\Project3.cbproj=E:\C_RAD\Project3.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
