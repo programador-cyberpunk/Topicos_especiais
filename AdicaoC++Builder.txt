@@ -1,0 +1,36 @@
+void __fastcall TForm1::Button1Click(TObject *Sender)
+{
+	int N1 = 0, N2 = 0, Res = 0;
+	bool Ret;
+	Ret = TryStrToInt(Edit1->Text, N1);
+	if (Ret == false)
+		{
+			ShowMessage("Número 1 inválido");
+			Edit1->SetFocus();
+
+		}
+	else
+		{
+			Ret = TryStrToInt(Edit2->Text, N2);
+			if (Ret == false)
+				{
+					ShowMessage("Número 2 inválido");
+					Edit2->SetFocus();
+				}
+			else
+				{
+					Res = N1 + N2;
+					Label4->Caption = IntToStr(Res);
+					Edit1->SetFocus();
+				}
+
+
+		}
+
+}
+//---------------------------------------------------------------------------
+void __fastcall TForm1::Button2Click(TObject *Sender)
+{
+	Application->Terminate();
+}
+//---------------------------------------------------------------------------
